@@ -26,3 +26,4 @@
 ### Budget:
 * Create a budget from Budgets and alerts of Google Cloud Console
 * At the bottom on Manage notifications, connect to the Pub/Sub topic create above and we are done
+* Now when the budget exceeded to set budget alert it will notify on slack.
